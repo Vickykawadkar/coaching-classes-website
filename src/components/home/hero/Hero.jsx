@@ -8,11 +8,12 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='WELCOME TO ACADEMIA' title='Best Online Education Expertise' />
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <Heading subtitle='WELCOME TO Mahalaxmi English Institue - MEI ' title='Premier English Language Institute' />
+            <p>Master the Art of Confident Communication & Fluent Expression  
+            Elevate Your Personality, Build Charisma & Unlock Success</p>
             <div className='button'>
               <button className='primary-btn'>
-                GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
+                CONTACT <i className='fa fa-long-arrow-alt-right'></i>
               </button>
               <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
